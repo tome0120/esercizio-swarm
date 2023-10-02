@@ -1,6 +1,6 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-BOX_NAME = "bento/ubuntu-22.04-arm64"
+BOX_NAME = "generic/ubuntu2204"
 MEMORY = "2048"
 CPUS = 2
 VAGRANTFILE_API_VERSION = "2"
